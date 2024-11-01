@@ -1,0 +1,9 @@
+IMPLEMENTAÇÃO DE DADOS EM SQL
+
+ALUNO
+
+CREATE TABLE ACTOR_fans
+(ID INT32, NOM VARCHAR);
+
+ALTER TABLE nome_da_tabela DROP CLOUMN nome_da_coluna
+INSERT INTO alunos (id, nome_aluno, email, endereço) VALUES (2, ‘ZECA’, afonso@.com, ‘sobral, sp, nº40’)
